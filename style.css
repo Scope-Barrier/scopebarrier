@@ -1173,3 +1173,23 @@ body {
     padding: 12px;
     font-size: 16px;
 }
+
+
+.skip-btn {
+    width: 100%;
+    margin-top: 12px;
+    padding: 14px;
+    border: 2px solid #14CBB1;
+    background: transparent;
+    color: #14CBB1;
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.25s ease;
+}
+
+.skip-btn:hover {
+    background: #14CBB1;
+    color: #000;
+}
